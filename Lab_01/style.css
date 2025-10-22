@@ -5,7 +5,7 @@
 }
 .container1 {
   display: grid;
-  grid-template-columns: repeat(2, 100px); /* Dwie kolumny dla wiersza 1 */
+  grid-template-columns: repeat(2, 100px);
   gap: 10px;
   margin-top: 10px;
   margin-bottom: 10px;
